@@ -162,3 +162,7 @@ tg 群：1月1号，才创建的 tg 群 https://t.me/public_blog_2025
 ## 友链
 
 既然你已经看到这了，应该创建好，或者有你自己的 blog 了，那就提一个友链 pr 吧。我会主观评价你的 blog 打分。😁 
+
+特殊的导航 Card
+因为这个 Card 是全局都在的，所以放在了 src/components 目录
+![](/blogs/readme/1e38ea817ede4f75.webp)
